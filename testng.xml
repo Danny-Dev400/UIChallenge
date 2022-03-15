@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Suit for TMDB and GUI automation testing" verbose="1" >
+    <listeners>
+        <listener class-name="listeners.TestAllureListeners"></listener>
+    </listeners>
+    <test name="test" parallel="methods" thread-count="3">
+        <classes>
+            <class name="test.Runner" >
+            </class>
+        </classes>
+    </test>
+
+</suite>

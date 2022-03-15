@@ -1,0 +1,286 @@
+[DEBUG] 2022-03-10 09:10:49.875 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 09:10:50.557 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 09:10:50.694 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 09:10:50.845 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 09:17:54.144 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 09:17:55.048 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 09:17:55.179 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 09:17:55.333 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 09:19:24.116 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 09:19:24.868 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 09:19:24.996 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 09:19:25.131 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 09:20:03.199 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 09:20:03.786 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 09:20:03.908 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 09:20:03.957 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 09:20:35.634 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 09:20:36.167 [main] LoginPage - Typing the username: axaxaxaxax in the input username
+[DEBUG] 2022-03-10 09:20:36.300 [main] LoginPage - Typing the password: axaxaxax in the input password
+[DEBUG] 2022-03-10 09:20:36.349 [main] LoginPage - Click in the login button
+[INFO ] 2022-03-10 09:20:36.818 [main] LoginPage - Getting the error status modal and verifying
+[DEBUG] 2022-03-10 09:20:47.350 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 09:20:47.478 [main] LandingPage - Click in search btn
+[INFO ] 2022-03-10 09:20:58.663 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 09:20:58.685 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 09:21:00.185 [main] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 09:21:10.994 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 09:21:11.592 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 09:21:11.716 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 09:21:11.775 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 09:21:24.115 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 09:21:24.217 [main] LandingPage - Click in search btn
+[INFO ] 2022-03-10 09:21:39.229 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 09:21:39.230 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 09:21:40.498 [main] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 09:23:03.470 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 09:23:04.162 [main] LoginPage - Typing the username: axaxaxaxax in the input username
+[DEBUG] 2022-03-10 09:23:04.301 [main] LoginPage - Typing the password: axaxaxax in the input password
+[DEBUG] 2022-03-10 09:23:04.449 [main] LoginPage - Click in the login button
+[INFO ] 2022-03-10 09:23:05.007 [main] LoginPage - Getting the error status modal and verifying
+[DEBUG] 2022-03-10 09:23:33.714 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 09:23:33.894 [main] LandingPage - Click in search btn
+[INFO ] 2022-03-10 09:24:02.962 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 09:24:02.980 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 09:24:04.943 [main] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 09:24:34.313 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 09:24:34.871 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 09:24:34.989 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 09:24:35.130 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 09:25:02.935 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 09:25:03.212 [main] LandingPage - Click in search btn
+[INFO ] 2022-03-10 09:25:33.769 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 09:25:33.769 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 09:25:35.511 [main] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 10:21:20.545 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 10:21:22.027 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 10:21:22.204 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 10:21:22.407 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 11:09:36.682 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:09:37.651 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 11:09:37.783 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 11:09:37.929 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 11:10:42.381 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:10:43.786 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 11:10:43.909 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 11:10:44.024 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 11:11:48.493 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:11:49.315 [main] LoginPage - Typing the username: axaxaxaxax in the input username
+[DEBUG] 2022-03-10 11:11:49.407 [main] LoginPage - Typing the password: axaxaxax in the input password
+[DEBUG] 2022-03-10 11:11:49.523 [main] LoginPage - Click in the login button
+[INFO ] 2022-03-10 11:11:50.023 [main] LoginPage - Getting the error status modal and verifying
+[DEBUG] 2022-03-10 11:12:18.144 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:12:18.422 [main] LandingPage - Click in search btn
+[INFO ] 2022-03-10 11:12:46.616 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:12:46.625 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:12:48.573 [main] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 11:13:16.446 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:13:17.228 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 11:13:17.331 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 11:13:17.413 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 11:13:44.634 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:13:44.834 [main] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 11:13:47.788 [main] LandingPage - Verify each web element until find the correct movie ....
+[INFO ] 2022-03-10 11:13:49.204 [main] LandingPage - successful verify
+[INFO ] 2022-03-10 11:14:16.300 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:14:16.300 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:14:17.816 [main] LandingPage - Click in top rated movies
+[INFO ] 2022-03-10 11:14:20.135 [main] LandingPage - successful verify
+[DEBUG] 2022-03-10 11:15:15.516 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:15:16.316 [main] LoginPage - Typing the username: axaxaxaxax in the input username
+[DEBUG] 2022-03-10 11:15:16.431 [main] LoginPage - Typing the password: axaxaxax in the input password
+[DEBUG] 2022-03-10 11:15:16.553 [main] LoginPage - Click in the login button
+[INFO ] 2022-03-10 11:15:17.245 [main] LoginPage - Getting the error status modal and verifying
+[DEBUG] 2022-03-10 11:15:43.801 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:15:43.913 [main] LandingPage - Click in search btn
+[INFO ] 2022-03-10 11:16:11.117 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:16:11.149 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:16:14.128 [main] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 11:16:44.929 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:16:46.686 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 11:16:46.850 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 11:16:46.966 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 11:17:16.152 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:17:16.244 [main] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 11:17:19.314 [main] LandingPage - Verify each web element until find the correct movie ....
+[INFO ] 2022-03-10 11:17:20.365 [main] LandingPage - successful verify
+[INFO ] 2022-03-10 11:17:49.873 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:17:49.874 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:17:52.530 [main] LandingPage - Click in top rated movies
+[INFO ] 2022-03-10 11:17:55.258 [main] LandingPage - successful verify
+[DEBUG] 2022-03-10 11:20:39.664 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:20:40.521 [main] LoginPage - Typing the username: axaxaxaxax in the input username
+[DEBUG] 2022-03-10 11:20:40.629 [main] LoginPage - Typing the password: axaxaxax in the input password
+[DEBUG] 2022-03-10 11:20:40.753 [main] LoginPage - Click in the login button
+[INFO ] 2022-03-10 11:20:41.270 [main] LoginPage - Getting the error status modal and verifying
+[DEBUG] 2022-03-10 11:21:08.053 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:21:08.137 [main] LandingPage - Click in search btn
+[INFO ] 2022-03-10 11:21:38.194 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:21:38.206 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:21:39.837 [main] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 11:22:07.654 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:22:08.388 [main] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 11:22:08.478 [main] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 11:22:08.594 [main] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 11:22:36.408 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:22:36.584 [main] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 11:22:39.910 [main] LandingPage - Verify each web element until find the correct movie ....
+[INFO ] 2022-03-10 11:22:40.574 [main] LandingPage - successful verify
+[INFO ] 2022-03-10 11:23:07.067 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:23:07.067 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:23:08.652 [main] LandingPage - Click in top rated movies
+[INFO ] 2022-03-10 11:23:10.924 [main] LandingPage - successful verify
+[DEBUG] 2022-03-10 11:26:19.835 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:26:20.532 [main] LoginPage - Typing the username: axaxaxaxax in the input username
+[DEBUG] 2022-03-10 11:26:20.635 [main] LoginPage - Typing the password: axaxaxax in the input password
+[DEBUG] 2022-03-10 11:26:20.747 [main] LoginPage - Click in the login button
+[INFO ] 2022-03-10 11:26:21.348 [main] LoginPage - Getting the error status modal and verifying
+[DEBUG] 2022-03-10 11:30:10.986 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:30:11.885 [main] LoginPage - Typing the username: axaxaxaxax in the input username
+[DEBUG] 2022-03-10 11:30:11.990 [main] LoginPage - Typing the password: axaxaxax in the input password
+[DEBUG] 2022-03-10 11:30:12.105 [main] LoginPage - Click in the login button
+[INFO ] 2022-03-10 11:30:12.599 [main] LoginPage - Getting the error status modal and verifying
+[DEBUG] 2022-03-10 11:30:39.766 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:30:39.946 [main] LandingPage - Click in search btn
+[INFO ] 2022-03-10 11:31:07.849 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:31:07.880 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:31:10.794 [main] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 11:34:03.855 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:34:03.986 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:34:06.065 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[INFO ] 2022-03-10 11:36:15.379 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:36:15.403 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:36:17.246 [TestNG-test=test-2] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 11:40:35.826 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:40:36.934 [TestNG-test=test-2] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 11:40:38.817 [TestNG-test=test-1] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:40:38.851 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:42:03.860 [main] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:42:04.013 [main] LandingPage - Click in search btn
+[INFO ] 2022-03-10 11:42:06.186 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:42:06.204 [main] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:42:06.262 [main] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 11:42:06.306 [main] LandingPage - Typing the movie: fight club in the search input
+[INFO ] 2022-03-10 11:42:06.336 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:42:06.337 [main] LandingPage - hover Action above the drop drown
+[INFO ] 2022-03-10 11:46:34.432 [TestNG-test=test-5] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:46:34.485 [TestNG-test=test-5] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:46:35.259 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[INFO ] 2022-03-10 11:46:36.390 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:46:36.391 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:46:37.767 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[INFO ] 2022-03-10 11:52:37.284 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 11:52:37.378 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 11:52:38.752 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:52:39.350 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 11:52:40.320 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 12:00:55.407 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[INFO ] 2022-03-10 12:00:55.971 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 12:00:55.998 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 12:00:57.126 [TestNG-test=test-3] LandingPage - Click in the login Button
+[INFO ] 2022-03-10 12:00:58.141 [TestNG-test=test-5] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 12:00:58.142 [TestNG-test=test-5] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 12:00:58.903 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 12:00:59.161 [TestNG-test=test-1] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 12:00:59.649 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[INFO ] 2022-03-10 12:04:02.233 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 12:04:02.247 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 12:04:03.806 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 12:06:45.715 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[INFO ] 2022-03-10 12:06:46.593 [TestNG-test=test-5] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 12:06:46.593 [TestNG-test=test-5] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 12:06:47.914 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 12:06:49.482 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 13:18:21.966 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[INFO ] 2022-03-10 13:18:22.190 [TestNG-test=test-5] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 13:18:22.191 [TestNG-test=test-5] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 13:18:23.081 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 13:58:57.546 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 13:58:57.611 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[INFO ] 2022-03-10 13:58:58.410 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 13:58:58.439 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[INFO ] 2022-03-10 13:58:58.710 [TestNG-test=test-5] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 13:58:58.711 [TestNG-test=test-5] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 13:58:59.676 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 13:58:59.988 [TestNG-test=test-3] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 14:01:19.748 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 14:01:20.340 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 14:01:20.499 [TestNG-test=test-3] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 14:22:25.788 [main] LandingPage - Typing the movie: fight club in the search input
+[INFO ] 2022-03-10 14:22:29.392 [main] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 14:22:29.407 [main] LandingPage - hover Action above the drop drown
+[INFO ] 2022-03-10 14:23:25.591 [TestNG-test=test-5] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 14:23:25.616 [TestNG-test=test-5] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 14:23:25.665 [TestNG-test=test-3] LandingPage - Click in the login Button
+[INFO ] 2022-03-10 14:23:26.645 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 14:23:26.646 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 14:23:28.458 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 14:23:28.783 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 14:29:33.544 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 14:29:33.544 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[INFO ] 2022-03-10 14:29:33.544 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 14:29:33.555 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 14:29:34.168 [TestNG-test=test-1] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 14:29:34.228 [TestNG-test=test-4] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 14:29:34.742 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 14:29:34.972 [TestNG-test=test-3] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 14:29:36.281 [TestNG-test=test-3] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 14:29:36.385 [TestNG-test=test-5] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 14:29:37.116 [TestNG-test=test-2] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 14:29:40.255 [TestNG-test=test-4] LandingPage - Verify each web element until find the correct movie ....
+[INFO ] 2022-03-10 14:29:40.372 [TestNG-test=test-5] LandingPage - successful verify
+[INFO ] 2022-03-10 14:29:41.146 [TestNG-test=test-4] LandingPage - successful verify
+[INFO ] 2022-03-10 14:36:02.173 [TestNG-test=test-5] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 14:36:02.206 [TestNG-test=test-5] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 14:36:02.482 [TestNG-test=test-3] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 14:36:04.570 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 14:36:05.149 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 14:36:05.256 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[INFO ] 2022-03-10 14:36:05.901 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 14:36:05.902 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 14:36:06.030 [TestNG-test=test-3] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 14:36:06.237 [TestNG-test=test-3] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 14:36:06.418 [TestNG-test=test-1] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 14:36:06.482 [TestNG-test=test-4] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 14:36:07.436 [TestNG-test=test-5] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 14:36:10.114 [TestNG-test=test-2] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 14:36:12.121 [TestNG-test=test-4] LandingPage - Verify each web element until find the correct movie ....
+[INFO ] 2022-03-10 14:36:12.782 [TestNG-test=test-4] LandingPage - successful verify
+[DEBUG] 2022-03-10 14:37:11.695 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 14:37:12.054 [TestNG-test=test-3] LandingPage - Click in the login Button
+[INFO ] 2022-03-10 14:37:12.510 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 14:37:12.511 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 14:37:12.545 [TestNG-test=test-4] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 14:37:12.590 [TestNG-test=test-1] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 14:37:14.181 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 14:37:14.605 [TestNG-test=test-3] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 14:37:14.851 [TestNG-test=test-3] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 14:37:16.090 [TestNG-test=test-5] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 14:37:17.284 [TestNG-test=test-2] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 14:37:18.198 [TestNG-test=test-4] LandingPage - Verify each web element until find the correct movie ....
+[INFO ] 2022-03-10 14:37:19.739 [TestNG-test=test-5] LandingPage - successful verify
+[INFO ] 2022-03-10 14:37:20.365 [TestNG-test=test-4] LandingPage - successful verify
+[DEBUG] 2022-03-10 14:51:03.541 [TestNG-test=test-4] LandingPage - Typing the movie: fight club in the search input
+[INFO ] 2022-03-10 14:51:03.602 [TestNG-test=test-2] LandingPage - Load Movies page
+[DEBUG] 2022-03-10 14:51:03.603 [TestNG-test=test-2] LandingPage - hover Action above the drop drown
+[DEBUG] 2022-03-10 14:51:03.975 [TestNG-test=test-1] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 14:51:04.482 [TestNG-test=test-3] LandingPage - Click in the login Button
+[DEBUG] 2022-03-10 14:51:05.247 [TestNG-test=test-4] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 14:51:05.996 [TestNG-test=test-5] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 14:51:06.864 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 14:51:06.925 [TestNG-test=test-2] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 14:51:07.083 [TestNG-test=test-3] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 14:51:07.257 [TestNG-test=test-3] LoginPage - Click in the login button
+[INFO ] 2022-03-10 14:51:09.899 [TestNG-test=test-5] LandingPage - successful verify
+[DEBUG] 2022-03-10 14:51:10.035 [TestNG-test=test-4] LandingPage - Verify each web element until find the correct movie ....
+[INFO ] 2022-03-10 14:51:11.160 [TestNG-test=test-4] LandingPage - successful verify
+[DEBUG] 2022-03-10 14:53:32.976 [TestNG-test=test-1] LandingPage - Typing the movie: fight club in the search input
+[DEBUG] 2022-03-10 14:53:33.361 [TestNG-test=test-1] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 14:53:33.561 [TestNG-test=test-4] LandingPage - Click in search btn
+[DEBUG] 2022-03-10 14:53:34.013 [TestNG-test=test-3] LoginPage - Typing the username: danielfell400 in the input username
+[DEBUG] 2022-03-10 14:53:34.875 [TestNG-test=test-3] LoginPage - Typing the password: hola123 in the input password
+[DEBUG] 2022-03-10 14:53:35.107 [TestNG-test=test-3] LoginPage - Click in the login button
+[DEBUG] 2022-03-10 14:53:35.639 [TestNG-test=test-2] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 14:53:35.797 [TestNG-test=test-5] LandingPage - Click in top rated movies
+[DEBUG] 2022-03-10 14:53:38.325 [TestNG-test=test-4] LandingPage - Verify each web element until find the correct movie ....
+[INFO ] 2022-03-10 14:53:40.088 [TestNG-test=test-4] LandingPage - successful verify
