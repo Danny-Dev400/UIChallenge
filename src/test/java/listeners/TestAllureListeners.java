@@ -12,9 +12,11 @@ public class TestAllureListeners implements ITestListener {
 
     private WebDriver driver;
 
-    /*public TestAllureListeners(WebDriver driver){
+    public TestAllureListeners(){}
+
+    public void setDriver(WebDriver driver) {
         this.driver = driver;
-    }*/
+    }
 
     @Override
     public void onTestFailure(ITestResult result) {
@@ -24,6 +26,7 @@ public class TestAllureListeners implements ITestListener {
 
     @Attachment(value = "Screenshot", type = "image/png")
     public byte[] saveScreenshot(WebDriver driver) {
+        System.out.printf("laksndlksan;knd");
         return ((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
     }
 

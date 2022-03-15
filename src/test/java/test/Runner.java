@@ -7,6 +7,7 @@ import io.qameta.allure.Severity;
 import io.qameta.allure.SeverityLevel;
 import io.qameta.allure.Story;
 
+import listeners.TestAllureListeners;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Parameters;
@@ -27,6 +28,8 @@ public class Runner{
     public void validUserLogin() {
         Hooks hooks = new Hooks("CHROME");
         WebDriver driver = hooks.getDriver();
+        TestAllureListeners testAllureListeners = new TestAllureListeners();
+        testAllureListeners.setDriver(driver);
 
         System.out.println("The thread ID for Firefox is "+ Thread.currentThread().getId());
         LandingPage landingPage = new LandingPage(driver);
@@ -60,6 +63,9 @@ public class Runner{
         Hooks hooks= new Hooks("CHROME");
         WebDriver driver = hooks.getDriver();
 
+        TestAllureListeners testAllureListeners = new TestAllureListeners();
+        testAllureListeners.setDriver(driver);
+
         System.out.println("The thread ID for Firefox is "+ Thread.currentThread().getId());
         LandingPage landingPage = new LandingPage(driver);
         landingPage.sendKeysMoviesInput("fight club");
@@ -76,6 +82,9 @@ public class Runner{
     public void verifyMovieGenreFilter(){
         Hooks hooks= new Hooks("CHROME");
         WebDriver driver = hooks.getDriver();
+
+        TestAllureListeners testAllureListeners = new TestAllureListeners();
+        testAllureListeners.setDriver(driver);
 
         System.out.println("Ajiaco t1");
         System.out.println(driver.hashCode());
@@ -97,6 +106,9 @@ public class Runner{
         Hooks hooks= new Hooks("CHROME");
         WebDriver driver = hooks.getDriver();
 
+        TestAllureListeners testAllureListeners = new TestAllureListeners();
+        testAllureListeners.setDriver(driver);
+
         System.out.println("Ajiaco t2");
         System.out.println(driver.hashCode());
         System.out.println("The thread ID for Firefox is "+ Thread.currentThread().getId());
@@ -106,7 +118,6 @@ public class Runner{
         MovieDetailsPage movieDetailsPage = searchPage.clickInTheFirstResult();
         ActorPage actorPage = movieDetailsPage.selectAnActor();
         Assert.assertEquals(actorPage.verifyIfTheMoviesIsContained("fight club"),Boolean.FALSE);
-
 
         driver.quit();
     }
@@ -118,6 +129,9 @@ public class Runner{
     public void sortByDatesOnAscendingOrder() throws ParseException {
         Hooks hooks= new Hooks("CHROME");
         WebDriver driver = hooks.getDriver();
+
+        TestAllureListeners testAllureListeners = new TestAllureListeners();
+        testAllureListeners.setDriver(driver);
 
         System.out.println("Ajiaco t3");
         System.out.println(driver.hashCode());
