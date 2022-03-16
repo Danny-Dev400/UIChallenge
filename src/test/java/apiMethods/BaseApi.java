@@ -1,6 +1,6 @@
-package ApiMethods;
+package apiMethods;
 
-import BuilderUser.User;
+import builderUser.User;
 
 import java.io.FileWriter;
 import java.io.IOException;

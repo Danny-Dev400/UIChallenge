@@ -1,9 +1,8 @@
 package test;
 
-import ApiMethods.ApiMethodsList;
-import ApiMethods.ApiMethodsMovies;
-import ApiMethods.HooksApi;
-import org.openqa.selenium.WebDriver;
+import apiMethods.ApiMethodsList;
+import apiMethods.ApiMethodsMovies;
+import apiMethods.HooksApi;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
@@ -11,9 +10,9 @@ import pages.*;
 
 import java.io.IOException;
 
-public class RunnerApiCase {
+public class RunnerApiCase extends Hooks{
 
-    /*private HooksApi api;
+    private HooksApi api;
 
     @BeforeClass
     public void setUpApi() throws IOException {
@@ -28,10 +27,7 @@ public class RunnerApiCase {
         ApiMethodsMovies apiMethodsMovies = new ApiMethodsMovies(api.getUser());
         apiMethodsMovies.addMovie(api.getUser().getApiKey(),api.getUser().getSessionId(),"634649");
 
-        Hooks hooks= new Hooks("CHROME");
-        WebDriver driver = hooks.getDriver();
-
-        LandingPage landingPage = new LandingPage(driver);
+        LandingPage landingPage = new LandingPage(getDriver());
         LoginPage loginPage = landingPage.clickLoginBtn();
         loginPage.sendKeysUsernameInput("danielfell400")
                 .sendKeysPasswordInput("hola123");
@@ -40,6 +36,6 @@ public class RunnerApiCase {
         ListDetailsPage listDetailsPage = userListsPage.ClickInSpecificList();
         MovieDetailsPage movieDetailsPage = listDetailsPage.selectMovieOfTheList(0);
         Assert.assertEquals(movieDetailsPage.containsTittle("Spider-Man: No Way Home"),Boolean.TRUE);
-    }*/
+    }
 
 }

@@ -1,10 +1,9 @@
-package ApiMethods;
+package apiMethods;
 
-import BuilderUser.User;
-import BuilderUser.UserBuilder;
+import builderUser.User;
+import builderUser.UserBuilder;
 import io.restassured.http.ContentType;
 import org.json.simple.JSONObject;
-import test.Hooks;
 
 import java.io.*;
 import java.text.SimpleDateFormat;
