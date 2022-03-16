@@ -23,8 +23,6 @@ public class Hooks {
         driver.set(driversManager.loadDriver(typedriver));
         getDriver().manage().window().maximize();
         getDriver().navigate().to("https://www.themoviedb.org/");
-        System.out.println("Ajiaco setup");
-        System.out.println(driver.hashCode());
     }
 
     public static WebDriver getDriver(){

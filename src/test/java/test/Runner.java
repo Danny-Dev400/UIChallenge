@@ -20,7 +20,6 @@ public class Runner extends Hooks {
     @Story("Profile Stories")
     @Test
     public void validUserLogin() {
-        System.out.println("The thread ID for Firefox is "+ Thread.currentThread().getId());
         LandingPage landingPage = new LandingPage(getDriver());
         LoginPage loginPage = landingPage.clickLoginBtn();
         loginPage.sendKeysUsernameInput("danielfell400")
@@ -34,8 +33,7 @@ public class Runner extends Hooks {
     @Story("Profile Stories")
     @Test
     public void invalidUserLogin(){
-        System.out.println("The thread ID for Firefox is "+ Thread.currentThread().getId());
-        LandingPage landingPage = new LandingPage(driver);
+        LandingPage landingPage = new LandingPage(getDriver());
         LoginPage loginPage = landingPage.clickLoginBtn();
         loginPage.sendKeysUsernameInput("axaxaxaxax")
                 .sendKeysPasswordInput("axaxaxax").clickInLoginBtn();
@@ -47,7 +45,6 @@ public class Runner extends Hooks {
     @Story("Actions with movies")
     @Test
     public void searchMovieFromlandingPage() {
-        System.out.println("The thread ID for Firefox is "+ Thread.currentThread().getId());
         LandingPage landingPage = new LandingPage(getDriver());
         landingPage.sendKeysMoviesInput("fight club");
         SearchPage searchPage = landingPage.clickInSearchBtn();
@@ -59,9 +56,6 @@ public class Runner extends Hooks {
     @Story("Actions with movies")
     @Test
     public void verifyMovieGenreFilter(){
-        System.out.println("Ajiaco t1");
-        System.out.println(driver.hashCode());
-        System.out.println("The thread ID for Firefox is "+ Thread.currentThread().getId());
         LandingPage landingPage = new LandingPage(getDriver());
         MoviesPage moviesPage = landingPage.clickInTopRatedMovies();
         moviesPage.clickInFilter().putActionFilter().clickInFilter().applyFilters();
@@ -74,9 +68,6 @@ public class Runner extends Hooks {
     @Story("Actions with movies details")
     @Test
     public void validateActingTimeline() {
-        System.out.println("Ajiaco t2");
-        System.out.println(driver.hashCode());
-        System.out.println("The thread ID for Firefox is "+ Thread.currentThread().getId());
         LandingPage landingPage = new LandingPage(getDriver());
         landingPage.sendKeysMoviesInput("fight club");
         SearchPage searchPage = landingPage.clickInSearchBtn();
@@ -91,9 +82,6 @@ public class Runner extends Hooks {
     @Story("Actions with movies")
     @Test
     public void sortByDatesOnAscendingOrder() throws ParseException {
-        System.out.println("Ajiaco t3");
-        System.out.println(driver.hashCode());
-        System.out.println("The thread ID for Firefox is "+ Thread.currentThread().getId());
         LandingPage landingPage = new LandingPage(getDriver());
         MoviesPage moviesPage = landingPage.clickInTopRatedMovies();
         moviesPage.clickInSortDropDown().applySortting("Release Date Ascending");
