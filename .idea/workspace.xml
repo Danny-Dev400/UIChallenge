@@ -5,39 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b1d4055-3738-4abe-bf2b-ed61e0e0474d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Utilities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/MyLogs.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/app-2022-03-09.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/credentials.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/credentials.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApiMethods/ApiMethodsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiMethods/ApiMethodsList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApiMethods/ApiMethodsMovies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiMethods/ApiMethodsMovies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApiMethods/BaseApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiMethods/BaseApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApiMethods/HooksApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/apiMethods/HooksApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BuilderUser/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/builderUser/Builder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BuilderUser/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/builderUser/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BuilderUser/UserBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/builderUser/UserBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/data/listId.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/data/listId.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/drivers/DriverType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/listeners/TestAllureListeners.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ActorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ActorPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LandingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ListDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ListDetailsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/MovieDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/MovieDetailsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/MoviesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/MoviesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ProfilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/ProfilePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/SearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/UserListsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/UserListsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/BasePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/Hooks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/ParallelHooks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/RunnerApiCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/RunnerApiCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

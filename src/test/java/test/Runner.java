@@ -29,7 +29,7 @@ public class Runner extends Hooks {
         Assert.assertEquals(profilePage.getUsernameTittle().toLowerCase(Locale.ROOT),"danielfell400");
     }
 
-    /*@Severity(SeverityLevel.CRITICAL)
+    @Severity(SeverityLevel.CRITICAL)
     @Description("Validate failed login")
     @Story("Profile Stories")
     @Test
@@ -40,7 +40,7 @@ public class Runner extends Hooks {
         loginPage.sendKeysUsernameInput("axaxaxaxax")
                 .sendKeysPasswordInput("axaxaxax").clickInLoginBtn();
         Assert.assertEquals(loginPage.getErrorStatusText()," There was a problem");
-    }*/
+    }
 
     @Severity(SeverityLevel.NORMAL)
     @Description("Search Movie From landing Page and validate that the first result is valid")
