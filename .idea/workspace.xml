@@ -6,20 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2b1d4055-3738-4abe-bf2b-ed61e0e0474d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/listeners/TestAllureListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/listeners/TestAllureListeners.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/test/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/UIChallenge-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/UIChallenge-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Test Suit for TMDB and GUI automation testing/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Test Suit for TMDB and GUI automation testing/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Test Suit for TMDB and GUI automation testing/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Test Suit for TMDB and GUI automation testing/test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-test.Runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-test.Runner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test Suit for TMDB and GUI automation testing/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Test Suit for TMDB and GUI automation testing/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Test Suit for TMDB and GUI automation testing/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Test Suit for TMDB and GUI automation testing/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,15 +56,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dasalazar\IdeaProjects\UIChallenge" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dasalazar\IdeaProjects\UIChallenge" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.Runner.validUserLogin">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="UIChallenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Runner.validateActingTimeline">
     <configuration name="Runner" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="UIChallenge" />
       <extension name="coverage">
@@ -83,7 +69,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Runner" />
+      <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.Runner" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
@@ -146,13 +132,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Runner.validateActingTimeline" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UIChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Runner" />
+      <option name="METHOD_NAME" value="validateActingTimeline" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Runner.validateActingTimeline" />
+        <item itemvalue="TestNG.Runner" />
         <item itemvalue="TestNG.Runner.validUserLogin" />
         <item itemvalue="TestNG.RunnerApiCase.apiUItest" />
         <item itemvalue="TestNG.RunnerApiCase.setUpApi" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="TestNG.Runner" />
       </list>
     </recent_temporary>
   </component>
