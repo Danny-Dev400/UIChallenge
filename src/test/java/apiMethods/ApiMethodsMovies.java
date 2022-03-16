@@ -1,6 +1,6 @@
-package ApiMethods;
+package apiMethods;
 
-import BuilderUser.User;
+import builderUser.User;
 import io.restassured.http.ContentType;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;

@@ -1,7 +1,8 @@
-package test;
+package pages;
 
-import io.qameta.allure.Attachment;
-import org.openqa.selenium.*;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -15,7 +16,7 @@ public class BasePage {
         this.driver = driver;
     }
 
-    public WebElement waitForDisplayAnElement(By element,int time){
+    public WebElement waitForDisplayAnElement(By element, int time){
         WebDriverWait wait = new WebDriverWait(driver,3);
         return wait.until(ExpectedConditions.visibilityOfElementLocated(element));
     }

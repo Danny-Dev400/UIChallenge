@@ -1,4 +1,4 @@
-package BuilderUser;
+package builderUser;
 
 public class User {
 

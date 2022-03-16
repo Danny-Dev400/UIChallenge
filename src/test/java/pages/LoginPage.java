@@ -3,7 +3,6 @@ package pages;
 import io.qameta.allure.Step;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import test.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
@@ -46,7 +45,5 @@ public class LoginPage extends BasePage {
         logger.info("Getting the error status modal and verifying");
         return waitForDisplayAnElement(errorStatusModal,3).getText();
     }
-
-
 
 }
